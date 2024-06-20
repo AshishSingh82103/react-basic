@@ -20,7 +20,7 @@ function NameBox(name) {
 
 ```
 'Sebastian Markbåge' ->
-{ fontWeight: 'bold', labelContent: 'Sebastian Markbåge' };
+{ fontWeight: 'bold', labelContent: 'Sebastian Markbåge' }; // 
 ```
 
 ## Abstraction
